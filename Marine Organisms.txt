@@ -1,0 +1,16 @@
+Dolphins 40 intermediate fish CARNIVORE VIVIPAROUS 0.4 coastalwaters 32101
+
+Clown Fish 8 small fish OMNIVOROUS OVULIPAROUS 0.9 tropical waters 45673
+
+Tuna 15 intermediate fish OMNIVOROUS OVULIPAROUS 0.7 coastalwaters 32101
+
+Salmon 4 intermediate fish CARNIVORE OVULIPAROUS 0.3 atlanticocean 38927
+
+Shrimp 4 small fish OMNIVOROUS OVULIPAROUS 0.6 tropicalwaters 45673
+
+Zooplankton 0.5 small plankton heterotrophic OVOVIVIPAROUS 0.9 coastalwaters 32101
+
+Montipora 3 small corals herbivore binary_fission 0.8 coastalwaters 32101
+
+Braincoral 100 large corals heterotrophic OVOVIVIPAROUS 0.4 tropicalwaters 45673
+

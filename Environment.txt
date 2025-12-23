@@ -1,0 +1,5 @@
+﻿coastalwaters 32101 17.5 200.0 30.0
+
+tropicalwaters 45673 26.0 200.0 34.5 
+
+atlanticocean 38927 14.0 4424.0 36.0

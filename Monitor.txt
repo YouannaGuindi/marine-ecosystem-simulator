@@ -1,0 +1,52 @@
+17.5
+30.0
+200.0
+normal
+Dolphins
+Bull Sharks
+Phytoplankton
+Brain Coral
+end of marine organisms
+0.4
+0.2 Tuna
+
+0.6 Salmon
+
+end of fishing
+coastal waters
+32101
+
+26.0
+34.5
+200.0
+slightly above range
+Clown Fish
+Great White Sharks
+Beluga Whales
+Zooplankton
+Acropora
+end of marine organisms
+0.15
+0.9 Salmon
+
+end of fishing
+tropical waters
+45673
+
+14.0
+36.0
+4424.0
+normal
+Salmon
+Orca Whales
+Montipora
+Great Barrier Reef
+end of marine organisms
+0.5
+0.8 Tuna
+
+0.1 Tuna
+
+end of fishing
+atlantic ocean
+34109
