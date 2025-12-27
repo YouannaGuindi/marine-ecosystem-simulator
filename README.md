@@ -29,4 +29,5 @@ Academic project carried out at **AASTMT (Arab Academy for Science, Technology &
 2. Make sure Java (JDK 8+) is installed.
 3. Compile: javac src/ecosystem/*.java
 4. Run: java ecosystem.Tracker
+ 
    make sure to review data folder to understand how to test the program
